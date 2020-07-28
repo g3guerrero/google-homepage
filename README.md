@@ -1,1 +1,1 @@
-# google-homepage
+Welcome to my attempt at rebuilding the google homepage!
